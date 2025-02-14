@@ -5,12 +5,12 @@ Este repositório contém imagens utilizadas para testar e validar o reconhecime
 ## Estrutura do Repositório
 
 ```
-📂 imagens/
+📂 Inputs/
    ├──📁 documentos/         # Imagens de documentos variados
    ├──📁 placas/             # Imagens de placas de rua, veículos, etc.
    ├──📁 captchas/           # Imagens com desafios de captcha
    ├──📁 manuscritos/        # Imagens de textos manuscritos
-📂 resultados/
+📂 Outputs/
    ├──📁 documentos/         # Resultados da análise de documentos
    ├──📁 placas/             # Resultados da análise de placas
    ├──📁 captchas/           # Resultados da análise de captchas
