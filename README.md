@@ -19,20 +19,13 @@ Este repositório contém imagens utilizadas para testar e validar o reconhecime
 
 ## Como Utilizar
 
-1. **Upload de Imagens**: Adicione novas imagens nos diretórios correspondentes dentro da pasta `imagens/`.
-2. **Processamento no Azure**: Utilize os serviços de OCR do Azure para analisar as imagens.
-3. **Armazenamento de Resultados**: Salve os arquivos de saída (JSON, TXT, ou outro formato adequado) na pasta `resultados/`, respeitando a estrutura de diretórios.
+1. **Upload de Imagens**: Adicione novas imagens nos diretórios correspondentes dentro da pasta `Inputs/`. (Link para o arquivo das imagens aqui: [Inputs](https://github.com/viniwallaz/labai_900_azure/blob/main/Inputs.md?plain=1)
+)2. **Processamento no Azure**: Utilize os serviços de OCR do Azure para analisar as imagens.
+3. **Armazenamento de Resultados**: Salve os arquivos de saída (JSON, TXT, ou outro formato adequado) na pasta `Outputs/`. (Link para o arquivo dos resultados aqui: [Outputs](https://github.com/viniwallaz/labai_900_azure/blob/main/Outputs.md))
 
 ## Tecnologias Utilizadas
 - **Azure Cognitive Services - Computer Vision**
 
-## Contribuição
-Se deseja contribuir com este repositório, siga os passos:
-1. Faça um fork do projeto.
-2. Crie uma branch (`git checkout -b minha-feature`).
-3. Faça commit das suas alterações (`git commit -m 'Adicionando nova imagem para teste'`).
-4. Envie para o branch principal (`git push origin minha-feature`).
-5. Abra um Pull Request.
 
 ## Contato
 Caso tenha dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou entrar em contato.
